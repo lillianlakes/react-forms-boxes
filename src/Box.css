@@ -1,0 +1,15 @@
+.Box {
+  text-align: left;
+}
+
+.Box-removeBox, .Box-component {
+  text-align: left;
+  display: inline-block;
+}
+
+button {
+  text-align: left;
+  /* display: inline-block;
+  margin: 100 px; */
+}
+
